@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/gocql/gocql"
 	"github.com/scylladb/go-reflectx"
+	"github.com/syhlion/gocql"
 )
 
 // Get is a convenience function for creating iterator and calling Get.

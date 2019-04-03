@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gocql/gocql"
 	"github.com/scylladb/gocqlx"
 	. "github.com/scylladb/gocqlx/gocqlxtest"
+	"github.com/syhlion/gocql"
 	"gopkg.in/inf.v0"
 )
 

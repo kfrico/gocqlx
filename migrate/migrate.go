@@ -17,9 +17,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gocql/gocql"
 	"github.com/scylladb/gocqlx"
 	"github.com/scylladb/gocqlx/qb"
+	"github.com/syhlion/gocql"
 )
 
 const (
